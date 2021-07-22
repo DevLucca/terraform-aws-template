@@ -1,4 +1,4 @@
-# SUPER ENSINO - TERRAFORM [AWS]
+# TERRAFORM TEMPLATE
 ## _How-to Guide_
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
