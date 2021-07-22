@@ -6,8 +6,6 @@
 Terraform is a IaC tool to manage infrastructure between many common Cloud Providers,
 such as Azure, AWS, Google Cloud Platfform and others.
 
-> This repository has the only use for managing 'SUPER ENSINO' AWS account and it's resources 
-
 ## Features
 
 - Create AWS resources
@@ -46,4 +44,3 @@ terraform apply $tflastplan -auto-approve -backend=true -backend-config=bucket=$
 
 MIT
 
-**Free Software, Hell Yeah!**
