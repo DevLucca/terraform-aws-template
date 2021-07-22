@@ -1,0 +1,6 @@
+#!/bin/bash
+mkdir -p plans
+export tflastplan=''
+alias tfplandir='tflastplan="plans/$(date +%Y%d%m_%H%M%S.out)" && echo $tflastplan'
+
+set -a; source .env; set +a
